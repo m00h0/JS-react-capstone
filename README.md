@@ -79,7 +79,7 @@
 
 **To get a local copy up and running, follow these steps.**
 
-1. Download or clone this [repostory](https://github.com/newtonah0/JS-react-capstone.git).
+1. Download or clone this [repostory](https://github.com/m00h0/JS-react-capstone.git).
 2. Provide a modern web browser.
 
 ### Prerequisites
