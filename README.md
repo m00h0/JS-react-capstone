@@ -89,7 +89,6 @@
 - ✔ [Git](https://git-scm.com/downloads) installed in your machine.
 - ✔ Sign in or sign up to your [Github](https://github.com/) account.
 - ✔ A professional editer such as [VS Code](https://code.visualstudio.com/download).
-- ✔ An Updated web browser such as Google Chrome, you can download it from [here](https://www.google.com/chrome/).
 - ✔ [Node.js](https://nodejs.org/en/download) installed in your machine.
 - ✔ Stylelint
 - ✔ ESLint
