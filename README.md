@@ -137,7 +137,7 @@ npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-i
 
 ```sh
  cd [YOUR FOLDER]
- git clone https://github.com/newtonah0/JS-react-capstone.git
+ git clone https://github.com/m00h0/JS-react-capstone.git
 ```
 
 ### Run tests
