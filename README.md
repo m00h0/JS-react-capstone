@@ -187,7 +187,7 @@ npx eslint .
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/newtonah0/JS-react-capstone/issues).
+Feel free to check the [issues page](https://github.com/m00h0/JS-react-capstone/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
