@@ -195,7 +195,7 @@ Feel free to check the [issues page](https://github.com/m00h0/JS-react-capstone/
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, kindly drop a start for the [repository](https://github.com/newtonah0/JS-react-capstone);
+If you like this project, kindly drop a start for the [repository](https://github.com/m00h0/JS-react-capstone);
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
